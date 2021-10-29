@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lemes-bufalo-685767139//)](https://www.linkedin.com/in/leonardo-lemes-bufalo-685767139//)
 
 🔭 I’m currently working with payment methods <br>
-🌱 I’m currently learning more about Java and Kotlin and Go  <br>
+🌱 I’m currently learning more about NodeJs, Kotlin and Go  <br>
 📚 Learning every day something new.
 
 
