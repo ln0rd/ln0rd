@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ln0rd)](https://github.com/ln0rd)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lemes-bufalo-685767139//)](https://www.linkedin.com/in/leonardo-lemes-bufalo-685767139//)
 
-🔭 I’m currently working with payment methods <br>
 📚 Learning every day something new.
 
 languages that interest me <br>
